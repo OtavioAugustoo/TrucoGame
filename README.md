@@ -19,8 +19,8 @@ Neste projeto foram aplicados os **pilares da Programação Orientada a Objetos 
 ## 🧑‍💻 Autor
 
 [Otavio Augusto](https://www.linkedin.com/in/dev-otavio-augusto)
-
------------------------------------------------------------------------English version---------------------------------------------------------------------------------------------------
+                                                                                                                                                            
+-----------------------------------------------------------------------English version----------------------------------------------------------------------
 # TrucoGame 🎴
 
 A Truco game developed in **Java** as part of a college assignment.  
